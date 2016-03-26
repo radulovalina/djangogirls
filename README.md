@@ -1,0 +1,2 @@
+# djangogirls
+django girls project
